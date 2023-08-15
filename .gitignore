@@ -1,0 +1,69 @@
+backend-spring-boot/HELP.md
+backend-spring-boot/target/
+backend-spring-boot/!.mvn/wrapper/maven-wrapper.jar
+backend-spring-boot/!**/src/main/**/target/
+backend-spring-boot/!**/src/test/**/target/
+
+### STS ###
+backend-spring-boot/.apt_generated
+backend-spring-boot/.classpath
+backend-spring-boot/.factorypath
+backend-spring-boot/.project
+backend-spring-boot/.settings
+backend-spring-boot/.springBeans
+backend-spring-boot/.sts4-cache
+
+### IntelliJ IDEA ###
+backend-spring-boot/.idea
+backend-spring-boot/*.iws
+backend-spring-boot/*.iml
+backend-spring-boot/*.ipr
+
+### NetBeans ###
+/backend-spring-boot/nbproject/private/
+/backend-spring-boot/nbbuild/
+/backend-spring-boot/dist/
+/backend-spring-boot/nbdist/
+/backend-spring-boot/.nb-gradle/
+backend-spring-boot/build/
+backend-spring-boot/!**/src/main/**/build/
+backend-spring-boot/!**/src/test/**/build/
+
+### VS Code ###
+frontend-next.js/.vscode/
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/frontend-next.js/node_modules
+/frontend-next.js/.pnp 
+frontend-next.js.pnp.js
+
+# testing
+/frontend-next.js/coverage
+
+# next.js
+/frontend-next.js/.next/
+/frontend-next.js/out/
+
+# production
+/frontend-next.js/build
+
+# debug
+frontend-next.js/npm-debug.log*
+frontend-next.js/yarn-debug.log*
+frontend-next.js/yarn-error.log*
+
+# misc
+frontend-next.js/.DS_Store
+frontend-next.js/*.pem
+frontend-next.js/.env*.local
+frontend-next.js/.vercel
+frontend-next.js/.env.development.local
+frontend-next.js/.env.test.local
+frontend-next.js/.env.production.local
+
+# typescript
+frontend-next.js/*.tsbuildinfo
+frontend-next.js/next-env.d.ts
+
